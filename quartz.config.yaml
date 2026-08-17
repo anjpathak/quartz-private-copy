@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: anjpathak.github.io
+  baseUrl: anjpathak.github.io/quartz-private-copy/
   ignorePatterns:
     - private
     - templates
